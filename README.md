@@ -1,0 +1,1 @@
+[ [Website](https://chris-kipp.io) | [Tooling Talks](https://tooling-talks.com) | [Twitter](https://twitter.com/ckipp01) | [Twitch](https://www.twitch.tv/ckipp) | [Sponsor](https://github.com/sponsors/ckipp01) ]
